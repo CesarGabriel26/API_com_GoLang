@@ -4,7 +4,7 @@
 
   <p>
     Esta Api fornce dados sobre carros, o usiario pode Cadastrar um novo carro usando o metodo SetCar
-    <img height=30 width=40 src="blob:https://web.whatsapp.com/9f3f4533-e6da-49ed-88fa-7b7cfb836a51"/>     
+    <img height=30 width=40 src="https://media.discordapp.net/attachments/1004483186740437044/1143371976530993212/9f3f4533-e6da-49ed-88fa-7b7cfb836a51.png"/>     
   </p>
   <br>
 
