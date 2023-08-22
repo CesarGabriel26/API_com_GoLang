@@ -3,7 +3,8 @@
 <h2><a href="https://replit.com/@Alphafox2/Aprendendo-Go#main.go">Site onde a API esta ospedada: https://replit.com/@Alphafox2/Aprendendo-Go#main.go</a></h2>
 
   <p>
-    Esta Api fornce dados sobre carros, o usiario pode Cadastrar um novo carro usando o metodo <bold>SetCar</bold> 
+    Esta Api fornce dados sobre carros, o usiario pode Cadastrar um novo carro usando o metodo SetCar
+    <img height=30 width=40 src="blob:https://web.whatsapp.com/9f3f4533-e6da-49ed-88fa-7b7cfb836a51"/>     
   </p>
   <br>
 
