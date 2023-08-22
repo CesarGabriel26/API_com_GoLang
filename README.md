@@ -1,6 +1,6 @@
 <h1>API_com_GoLang</h1>
 
-<h2><a href="https://replit.com/@Alphafox2/Aprendendo-Go#main.go">Site onde a API esta ospedada: https://replit.com/@Alphafox2/Aprendendo-Go#main.go</a></h2>
+<h2><a href="https://replit.com/@Alphafox2/Aprendendo-Go#main.go">Site onde a API esta hospedada: https://replit.com/@Alphafox2/Aprendendo-Go#main.go</a></h2>
   
 <p>Statos: Em desenvolvimento</p>
 <br>
